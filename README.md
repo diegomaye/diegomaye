@@ -1,8 +1,9 @@
 - 👋 Hey there! I'm @diegomaye, Founder of [Code4Business](https://www.code4business.com/)! & [Lolos AI](https://www.lolos.ai)!
-- 👀 I'm in computer and data science, cutting-edge technology, startups and entrepreneurship, now learning and actively working with Gen AI.
-- 🌱 Currently growing [Code4Business](https://www.code4business.com/)! and developing an AI product: [Lolos AI](https://www.lolos.ai)!
-- 👷 My main experience and daily work is related to AI, Cloud System, Microservice Stack Architecture, Project Management, Entrepreneurship.
-- 💞️ I am passionate about designing and developing challenging projects using Java/Python microservices & React. My primary development languages are Java, Python, and JavaScript, but I enjoy experimenting with other languages such as Go, Flutter, and more.
+- 👀 I'm in computer and data science, now learning and actively working with Gen AI.
+- 🌱 Currently growing [Code4Business](https://www.code4business.com/)! and developing AI product like: [Lolos AI](https://www.lolos.ai)!
+- 🥋 Now seeking talented 'ninjas' to strengthen our team.
+- 👷 My main experience and daily work is related to AI, Cloud Computing, Microservice Stack Architecture, Management & Entrepreneurship.
+- 💞️ I'm passionate about tackling challenging projects, proficient in C, Java, Python, and JavaScript, while also exploring languages like Go and Flutter.
 
 <!---
 diegomaye/diegomaye is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
