@@ -2,8 +2,9 @@
 - 👀 I'm in computer and data science, now learning and actively working with Gen AI.
 - 🌱 Currently growing [Code4Business](https://www.code4business.com/)! and developing AI product like: [Lolos AI](https://www.lolos.ai)!
 - 🥋 Now seeking talented 'ninjas' to strengthen my team.
-- 👷 My main experience and daily work is related to AI, Cloud Computing, Microservice Stack Architecture, Management & Entrepreneurship.
-- 💞️ I'm passionate about tackling challenging projects, proficient in C, Java, Python, and JavaScript, while also exploring languages like Go and Flutter.
+- 👷 My daily work is related to AI, Cloud Computing, Cybersecurity, Management & Entrepreneurship.
+- 💞️ I'm passionate about tackling challenging projects that push the state of the art.
+- 👾 Proficiency in Java, C, Python, and JavaScript in love with Math & Statistics.
 
 <!---
 diegomaye/diegomaye is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
