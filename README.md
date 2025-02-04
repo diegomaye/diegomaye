@@ -4,7 +4,7 @@
 - 👷 Daily, I engage in AI, Cloud Computing, Cybersecurity, Management, and Entrepreneurship.
 - 💞️ I am driven by a passion for tackling challenging projects that redefine the boundaries of technology.
 - 👾 With proficiency in Java, C, Python, and JavaScript, I deeply appreciate the beauty of Math & Statistics.
-- 🥋 Actively seeking talented 'ninjas' to strengthen our team and propel our projects to new heights.
+- 🥋 Actively seeking talented 'ninjas' to strengthen my network and propel projects to new heights.
 
 <!---
 diegomaye/diegomaye is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
