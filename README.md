@@ -1,4 +1,4 @@
-- 👋 Hey there! I'm @diegomaye AI Advisor, Founder of [Code4Business](https://www.code4business.com/) & [Lolos AI](https://www.lolos.ai/).
+- 👋 Hey there! I'm @diegomaye AI Advisor, Co-Founder of [Code4Business](https://www.code4business.com/) & [Lolos AI](https://www.lolos.ai/).
 - 👀 I specialize in computer and data science with a focus on Gen AI and innovative AI products like [Lolos AI](https://www.lolos.ai/).
 - 🌱 I'm currently expanding [Code4Business](https://www.code4business.com/), combining cutting-edge technology with practical business applications.
 - 👷 Daily, I engage in AI, Cloud Computing, Cybersecurity and Entrepreneurship.
